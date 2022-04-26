@@ -12,4 +12,7 @@ run ```npm i && npm start```  to start the app
 ## Live Version
 Visit https://memories-344309.web.app to view the live version of this application
 
+![memories1](https://user-images.githubusercontent.com/76836006/165225181-5d1236fc-2c8c-48d9-bf4a-66ecb1c97c7f.JPG)
+![memories](https://user-images.githubusercontent.com/76836006/165225230-1e853b51-fe21-46fd-9a36-34272215f254.JPG)
+
 ### Don't forget to star this repository✨✨
