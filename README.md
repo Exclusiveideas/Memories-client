@@ -8,6 +8,13 @@ A simple social media app that allows users to post interesting events and amazi
 You can as well view and like other user's memories. <br />
 This repository contains the client-side of this application, To view the server-side repository of this application, visit this [repo](https://github.com/Exclusiveideas/Memories-server).
 
+
+## STACK
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Exclusiveideas)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Exclusiveideas)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Exclusiveideas)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Exclusiveideas)
+
 ## Live Version
 Visit [here](https://memories-344309.web.app) to view the live version of this application.
 
