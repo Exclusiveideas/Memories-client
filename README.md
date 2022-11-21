@@ -20,11 +20,11 @@ Visit [here](https://memories-344309.web.app) to view the live version of this a
 
 ## Installation Steps 
 **1. First clone the project by running** <br />
-   ``` git clone https://github.com/<your-username>/Realtor.git ```
+   ``` git clone https://github.com/EExclusiveideas/Memories-client.git ```
 <br />
 
 **2. Go into the project directory**  <br />
-   ``` cd Realtor ``` 
+   ``` cd Memories-client ``` 
    <br />
    
 **3. Install all the dependencies** <br />
